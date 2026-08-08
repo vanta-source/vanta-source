@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 Contact me: [Linkedin](https://www.linkedin.com/in/newsha-karimi/)
-- Follow me : [Leetcode](https://www.leetcode.com/varavex)
+- 🧩 Follow me : [Leetcode](https://www.leetcode.com/varavex)
 - 😄 Pronouns: She/her
 
 <!---
